@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-  name: real-service-db
+  name: real-service-user-api
   description: Stores artist details
 spec:
   type: database
   owner: infrastructure
-  system: real-service-api
+  system: real-service-user-api
