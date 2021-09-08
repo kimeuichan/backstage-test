@@ -32,5 +32,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: infrastructure
-  system: real-service-api
+  system: real-service-user-api
   dependsOn: ['resource:real-service-db']
