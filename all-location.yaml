@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: org-data
+spec:
+  type: file
+  targets:
+    - ./doamin.yaml
+    - real-service-user-api-component.yaml
+    - real-service-user-api-resource.yaml
+    - real-service-user-api-system.yaml
+    - team.yaml
