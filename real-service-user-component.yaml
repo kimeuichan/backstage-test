@@ -33,4 +33,4 @@ spec:
   lifecycle: experimental
   owner: infrastructure
   system: real-service-api
-  dependsOn: ['resource:artists-db']
+  dependsOn: ['resource:real-service-db']
