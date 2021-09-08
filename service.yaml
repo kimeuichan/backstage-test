@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
-  name: real-service-api
+  name: real-service-user-api
   description: Handy tools to keep artists in the loop
 spec:
   owner: infrastructure
