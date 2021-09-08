@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: real-service-user
-  description: Artist Lookup
+  name: real-service-user-api
+  description: real service user api
   tags:
     - java
     - data
