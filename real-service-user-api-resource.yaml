@@ -6,4 +6,3 @@ metadata:
 spec:
   type: database
   owner: infrastructure
-  system: real-service-user-api
