@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: artist-lookup
+  name: real-service-user
   description: Artist Lookup
   tags:
     - java
@@ -31,6 +31,6 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-a
-  system: artist-engagement-portal
+  owner: infrastructure
+  system: real-service-api
   dependsOn: ['resource:artists-db']
