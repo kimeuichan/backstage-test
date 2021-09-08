@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: artists
+  name: real-service
   description: Everything about artists
 spec:
   owner: infrastructure
