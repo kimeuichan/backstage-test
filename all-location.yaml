@@ -6,7 +6,7 @@ spec:
   type: file
   targets:
     - ./doamin.yaml
-    - real-service-user-api-component.yaml
-    - real-service-user-api-resource.yaml
-    - real-service-user-api-system.yaml
-    - team.yaml
+    - ./real-service-user-api-component.yaml
+    - ./real-service-user-api-resource.yaml
+    - ./real-service-user-api-system.yaml
+    - ./team.yaml
