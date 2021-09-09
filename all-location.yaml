@@ -3,7 +3,6 @@ kind: Location
 metadata:
   name: org-data
 spec:
-  type: file
   targets:
     - ./doamin.yaml
     - ./real-service-user-api-component.yaml
