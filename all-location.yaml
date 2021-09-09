@@ -5,8 +5,8 @@ metadata:
 spec:
   type: file
   targets:
-    - ./doamin.yaml
-    - ./real-service-user-api-component.yaml
-    - ./real-service-user-api-resource.yaml
-    - ./real-service-user-api-system.yaml
-    - ./team.yaml
+    - https://github.com/kimeuichan/backstage-test/main/doamin.yaml
+    - https://github.com/kimeuichan/backstage-test/main/real-service-user-api-component.yaml
+    - https://github.com/kimeuichan/backstage-test/main/real-service-user-api-resource.yaml
+    - https://github.com/kimeuichan/backstage-test/main/real-service-user-api-system.yaml
+    - https://github.com/kimeuichan/backstage-test/main/team.yaml
